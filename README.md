@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://tofikwest.github.io/404-not-found-master/" target="_blank">
+    <a target="_blank" href="https://tofikwest.github.io/404-not-found-master/" >
       Demo
     </a>
     <span> | </span>
